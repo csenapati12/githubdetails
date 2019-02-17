@@ -34,6 +34,6 @@ git push -u origin --tags
 
 one time authentication
 ==========================
-set the remote url \n
-git remote set-url origin git@github.com:username/repo.git \n
+set the remote url
+git remote set-url origin git@github.com:username/repo.git
 git remote set-url origin git@http://chaitanya-inspiron-5521:csenapati12/gittag.git
